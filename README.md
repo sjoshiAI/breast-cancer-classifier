@@ -5,11 +5,14 @@ Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Pro
 
 I've added detailed comments in the notebook to showcase the reasoning.
 
-Results - 
+Results:
+
 98.25% accuracy on blind test set with (96.1%,99.5%) range from cross validation set.
 97.37% precision as well as recall on Linear SVM.
 
-Further Analysis
+
+
+Further Analysis:
 
 1. Customise the loss function to penalise the False negative (real M but predicted B) cases compared to False postiive cases becasue false negatives can be life threatening in real setting while false postives are just an annoyance relaively speaking.
 2. Deep dive into the cases that we predict wrong. This will help me understand what went wrong with the model and how (if possible) we can fix this problem.
