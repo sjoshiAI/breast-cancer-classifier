@@ -1,14 +1,13 @@
 # breast-cancer-classifier
-Breast Cancer Wisconsin (Prognostic) Data Set
 
-Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Prognostic%29
+Dataset - https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Prognostic%29 (Breast Cancer Wisconsin (Prognostic) Data Set)
 
 I've added detailed comments in the notebook to showcase the reasoning.
 
 Results:
 
-98.25% accuracy on blind test set with (96.1%,99.5%) range from cross validation set.
-97.37% precision as well as recall on Linear SVM.
+1. 98.25% accuracy on blind test set with (96.1%,99.5%) range from cross validation set.
+2. 97.37% precision as well as recall on Linear SVM.
 
 
 
