@@ -7,7 +7,7 @@ I've added detailed comments in the notebook to showcase the reasoning.
 Results:
 
 1. 98.25% accuracy on blind test set with (96.1%,99.5%) range from cross validation set.
-2. 97.37% precision as well as recall on Linear SVM.
+2. 97.67% precision as well as recall on Linear SVM.
 
 
 
